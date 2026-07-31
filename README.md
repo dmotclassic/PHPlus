@@ -7,6 +7,7 @@ The file supports Windows only.
 Replace PHPlus file in your directory, and edit your another files make this:
 
 // Connect PHPlus functions
+
 require 'functions.php'; 
 
 Done, very easy!
